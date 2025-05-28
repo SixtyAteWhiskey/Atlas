@@ -1,0 +1,6 @@
+Download zims from here: library.kiwix.org
+Download websites and turn them into zims here: zimit.kiwix.org/
+When downloading zims, place them into the Kiwix-zims folder in your Documents
+Open Kiwix > Select "..." in the top right hand corner > "Settings" > Browse > Documents > Kiwix-zims
+Select Ok
+Now Kiwix will look at that folder for any new zim's you add!
