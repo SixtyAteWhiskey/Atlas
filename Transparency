@@ -1,0 +1,18 @@
+**Below is a list of things that this script does, in plain english**
+---------------------------------------------------------------------
+1. Update the OS: sudo apt update && sudo apt upgrade
+2. Create a directory in Documents labeled “Kiwix-zims”
+3. Create a TXT file on the desktop labeled “Quick Links” and put the following information inside: 
+“Download zims from here: library.kiwix.org
+Download websites and turn them into zims here: zimit.kiwix.org/
+When downloading zims, place them into the Kiwix-zims folder in your Documents”
+
+4. Open port 8080 using ufw
+5. Install ollama using: curl -fsSL https://ollama.com/install.sh | sh
+6. Pull ollama pull qwen2.5:0.5b
+7. Download Msty from: https://assets.msty.app/prod/latest/linux/amd64/Msty_amd64_amd64.deb
+8. Install Msty: sudo apt install ./<DownloadedFileName>.deb
+9. Create a shortcut to run “msty” on the Desktop
+10. Install vlc using: “sudo apt install vlc -y”
+11. Install kiwix using: “sudo apt install kiwix -y”
+12. Install jDownloader. 
